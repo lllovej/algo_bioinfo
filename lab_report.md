@@ -20,3 +20,5 @@ The mean of the sequence identity is 0.947 with a standard deviation of 0.07. Th
 
 Besides, I also tried the apply the networkx plotting on my data even though the results might not be helpful by far. It is possible to find connections among the proteins. I used the query identifier and the target identifier as the edges. Since if the couple are the best hit of each other, the strong connection (might be orthologues) does exist between them. This is just an experiment and hopefully I could implement it when my dataset is done. 
 ![alt text](figs/network1.jpg)
+
+I also tested plotting many figures but most of them are not significant nor meaningful, so that those are not included in the report. However, you could find some tests in the codes(`project.ipynb`).
