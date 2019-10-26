@@ -19,7 +19,7 @@ The mean of the sequence identity is 0.947 with a standard deviation of 0.07. Th
 ![alt text](figs/alignVSsi.jpg)
 
 I use the sequence identity of 95% to filter the results. If the seq_id >= 95% then it is true and vice versa. Then I plot the query sequence length vs alignment sequence length to check the seq_id and here is the figure. 
-~[alt text](figs/si-mask.jpg)
+![alt text](figs/si_mask.jpg)
 
 Most 'True' points are on the diagnal and it also serves a positive evidence of good alignments. 
 
